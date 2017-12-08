@@ -16,11 +16,8 @@
 </head>
 <body>
 <nav class="navbar container">
-<a class="navbar-brand" href="#"><h1>ListApp</h1></a>
+<a class="navbar-brand" href="index.php"><h1>ListApp</h1></a>
 <ul class="nav">
-    <li class="nav-item">
-        <a class="nav-link active" href="#">Home</a>
-    </li>
     <li class="nav-item">
         <a class="nav-link" href="register.php">Register</a>
     </li>
